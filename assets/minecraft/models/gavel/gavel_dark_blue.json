@@ -1,0 +1,7 @@
+{
+"parent": "gavel/gavel_yellow",
+"textures": {
+		"0": "gavel/gavel_dark_blue",
+		"particle": "gavel/gavel_dark_blue"
+}
+}

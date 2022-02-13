@@ -1,0 +1,18 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_axe"
+	},
+	"overrides": [
+        {"predicate": {"custom_model_data": 1 }, "model": "gavel/gavel_red"},
+        {"predicate": {"custom_model_data": 2 }, "model": "gavel/gavel_orange"},
+        {"predicate": {"custom_model_data": 3 }, "model": "gavel/gavel_yellow"},
+        {"predicate": {"custom_model_data": 4 }, "model": "gavel/gavel_green"},
+        {"predicate": {"custom_model_data": 5 }, "model": "gavel/gavel_light_blue"},
+        {"predicate": {"custom_model_data": 6 }, "model": "gavel/gavel_dark_blue"},
+        {"predicate": {"custom_model_data": 7 }, "model": "gavel/gavel_purple"}
+	]
+}
+
+
+

@@ -23,5 +23,10 @@
 		"sounds": [
 			"custom/thud"
 		]
+	},
+	"judgement.gavel": {
+		"sounds": [
+			"custom/gavel"
+		]
 	}
 }
